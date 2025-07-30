@@ -12,7 +12,7 @@ This project demonstrates how to deploy a **highly available**, **scalable**, an
 
 ---
 
-## 🧰 AWS Services Used
+## 🧰 AWS Services Used 
 
 - **Amazon EC2**: Hosts the web application backend.
 - **Application Load Balancer (ALB)**: Distributes traffic across healthy EC2 instances in multiple AZs.
