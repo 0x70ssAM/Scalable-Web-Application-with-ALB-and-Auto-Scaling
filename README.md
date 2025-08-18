@@ -6,7 +6,7 @@ This project demonstrates how to deploy a **highly available**, **scalable**, an
 
 ## 📊 Solution Architecture Diagram
 
-![Architecture](Final_diagram.png)
+![Architecture](Updated_diagram.png)
 
 > 🧩 The architecture spans **two Availability Zones (AZs)**, using both **public and private subnets**, with critical resources duplicated to ensure **high availability** and **resilience** against single AZ failure.
 
